@@ -1,0 +1,34 @@
+[
+    {
+        "keterangan": "gaji bulan ini",
+        "jumlah": 2500000,
+        "kategori": "Gaji",
+        "id": "TRX0001",
+        "tanggal": "2025-11-01",
+        "tipe": "PEMASUKAN"
+    },
+    {
+        "keterangan": "investasi",
+        "jumlah": 100000,
+        "kategori": "Investasi",
+        "id": "TRX0002",
+        "tanggal": "2025-11-05",
+        "tipe": "PENGELUARAN"
+    },
+    {
+        "keterangan": "beli makan",
+        "jumlah": 250000,
+        "kategori": "Makanan",
+        "id": "TRX0003",
+        "tanggal": "2025-11-07",
+        "tipe": "PENGELUARAN"
+    },
+    {
+        "keterangan": "beli bensin bulan ini",
+        "jumlah": 100000,
+        "kategori": "Transport",
+        "id": "TRX0004",
+        "tanggal": "2025-11-16",
+        "tipe": "PENGELUARAN"
+    }
+]
