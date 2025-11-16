@@ -1,0 +1,34 @@
+[
+    {
+        "keterangan": "Gaji Bulan ini",
+        "jumlah": 2500000,
+        "kategori": "Gaji",
+        "id": "TRX0001",
+        "tanggal": "2025-10-01",
+        "tipe": "PEMASUKAN"
+    },
+    {
+        "keterangan": "Beli kebutuhan dirumah",
+        "jumlah": 150000,
+        "kategori": "Makanan",
+        "id": "TRX0002",
+        "tanggal": "2025-10-04",
+        "tipe": "PENGELUARAN"
+    },
+    {
+        "keterangan": "Beli Bensin",
+        "jumlah": 50000,
+        "kategori": "Transport",
+        "id": "TRX0003",
+        "tanggal": "2025-11-04",
+        "tipe": "PENGELUARAN"
+    },
+    {
+        "keterangan": "Jalan - Jalan di Mall",
+        "jumlah": 200000,
+        "kategori": "Hiburan",
+        "id": "TRX0004",
+        "tanggal": "2025-10-12",
+        "tipe": "PENGELUARAN"
+    }
+]

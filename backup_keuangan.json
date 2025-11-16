@@ -1,0 +1,26 @@
+[
+    {
+        "keterangan": "Gaji Bulan ini",
+        "jumlah": 5000000,
+        "kategori": "Gaji",
+        "id": "TRX0001",
+        "tanggal": "2025-11-15",
+        "tipe": "PEMASUKAN"
+    },
+    {
+        "keterangan": "Beli Makanan",
+        "jumlah": 35000,
+        "kategori": "Makanan",
+        "id": "TRX0002",
+        "tanggal": "2025-11-15",
+        "tipe": "PENGELUARAN"
+    },
+    {
+        "keterangan": "Membeli Action Figure",
+        "jumlah": 350000,
+        "kategori": "Hiburan",
+        "id": "TRX0003",
+        "tanggal": "2025-11-15",
+        "tipe": "PENGELUARAN"
+    }
+]
